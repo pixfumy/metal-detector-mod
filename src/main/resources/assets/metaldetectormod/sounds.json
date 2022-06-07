@@ -1,0 +1,22 @@
+{
+  "metaldetectoroff": {
+    "sounds": [
+      "metaldetectormod:metaldetectoroff"
+    ]
+  },
+  "metaldetector1": {
+    "sounds": [
+      "metaldetectormod:metaldetector1"
+    ]
+  },
+  "metaldetector2": {
+    "sounds": [
+      "metaldetectormod:metaldetector2"
+    ]
+  },
+  "metaldetector3": {
+    "sounds": [
+      "metaldetectormod:metaldetector3"
+    ]
+  }
+}
